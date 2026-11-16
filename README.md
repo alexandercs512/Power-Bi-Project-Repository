@@ -60,6 +60,11 @@ An exploratory retail analytics report emphasizing product profitability and cat
 
 ---
 
+🌟 Reflection
+Developing these Power BI reports provided hands-on experience in the complete end-to-end business intelligence lifecycle—from raw data transformation in Power Query and relationship modelling to writing advanced DAX measures and designing polished, interactive reports. This project highlights practical technical readiness for a Data Technician or Analyst role.
+
+---
+
 ## 📁 Repository Structure
 ```text
 ├── images/               # Dashboard screenshots and visual assets
