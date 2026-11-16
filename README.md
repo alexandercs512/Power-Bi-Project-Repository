@@ -36,7 +36,7 @@ An executive dashboard monitoring monthly sales velocity, profit margins, region
 ### 2. 🌍 Regional Profit & Geographic Performance Analysis
 A spatial and structural breakdown tracking international profitability and multi-year financial statements.
 
-<img width="1321" height="774" alt="image" src="https://github.com/user-attachments/assets/1551376d-d1b3-4fa3-9d0a-f6a793ec248b" />
+<img width="1136" height="559" alt="image" src="https://github.com/user-attachments/assets/7d5f1d8f-5e30-40e2-ab62-2e0873cde5f9" />
 
 * **Key Features:** Bing map integration for European profit distribution, segment filters, and multi-year financial matrix summaries.
 
