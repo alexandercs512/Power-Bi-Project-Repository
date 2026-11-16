@@ -45,7 +45,7 @@ A spatial and structural breakdown tracking international profitability and mult
 ### 3. 🎯 Sales vs. Target Variance Tracking
 A dedicated performance dashboard comparing actual retail sales against established organizational targets.
 
-<img width="1375" height="778" alt="image" src="https://github.com/user-attachments/assets/d504a0b1-220e-4dad-92f4-05e3cc51d216" />
+<img width="1321" height="774" alt="image" src="https://github.com/user-attachments/assets/9c4c3a8d-9ed9-4f77-b7d2-5eb7754b4153" />
 
 * **Key Features:** KPI card summaries (Sales, Target, Variance, and Variance Margin), horizontal monthly comparison bars, and detailed variance column charts.
 
