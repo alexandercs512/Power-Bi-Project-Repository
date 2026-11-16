@@ -27,7 +27,7 @@ Welcome to my Power BI project repository! This portfolio showcases the interact
 ### 1. 💼 Adventure Works: Sales & Profit Margin Performance
 An executive dashboard monitoring monthly sales velocity, profit margins, regional filters, and category distributions.
 
-[![Adventure Works Sales and Profit Margin](images/adventure-works-dashboard.png)](images/adventure-works-dashboard.png)
+<img width="1375" height="778" alt="image" src="https://github.com/user-attachments/assets/d504a0b1-220e-4dad-92f4-05e3cc51d216" />
 
 * **Key Features:** Year and Region slicers, combo charts tracking sales vs. profit margin trends, and category quantity breakdowns.
 
@@ -36,7 +36,7 @@ An executive dashboard monitoring monthly sales velocity, profit margins, region
 ### 2. 🌍 Regional Profit & Geographic Performance Analysis
 A spatial and structural breakdown tracking international profitability and multi-year financial statements.
 
-[![Regional Profit Map and Performance](images/regional-profit-map.png)](images/regional-profit-map.png)
+<img width="1321" height="774" alt="image" src="https://github.com/user-attachments/assets/1551376d-d1b3-4fa3-9d0a-f6a793ec248b" />
 
 * **Key Features:** Bing map integration for European profit distribution, segment filters, and multi-year financial matrix summaries.
 
@@ -45,7 +45,7 @@ A spatial and structural breakdown tracking international profitability and mult
 ### 3. 🎯 Sales vs. Target Variance Tracking
 A dedicated performance dashboard comparing actual retail sales against established organizational targets.
 
-[![Sales vs Target Dashboard](images/sales-vs-target.png)](images/sales-vs-target.png)
+<img width="1321" height="763" alt="image" src="https://github.com/user-attachments/assets/be3dfc8b-18c8-469d-82fb-75e7efdd9b7d" />
 
 * **Key Features:** KPI card summaries (Sales, Target, Variance, and Variance Margin), horizontal monthly comparison bars, and detailed variance column charts.
 
@@ -54,7 +54,7 @@ A dedicated performance dashboard comparing actual retail sales against establis
 ### 4. 🛒 Global Superstore: Category & Profitability Insights
 An exploratory retail analytics report emphasizing product profitability and category performance across customer segments.
 
-[![Global Superstore Insights](images/global-superstore-insights.png)](images/global-superstore-insights.png)
+<img width="1136" height="559" alt="image" src="https://github.com/user-attachments/assets/f9ae7e2e-14d0-4729-a103-2b72505faa08" />
 
 * **Key Features:** Segment-filtered category bar charts, multi-year revenue growth trend lines, and a high-impact treemap of most profitable products.
 
