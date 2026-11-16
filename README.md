@@ -27,7 +27,7 @@ Welcome to my Power BI project repository! This portfolio showcases the interact
 ### 1. 💼 Adventure Works: Sales & Profit Margin Performance
 An executive dashboard monitoring monthly sales velocity, profit margins, regional filters, and category distributions.
 
-<img width="1375" height="778" alt="image" src="https://github.com/user-attachments/assets/d504a0b1-220e-4dad-92f4-05e3cc51d216" />
+<img width="1321" height="763" alt="image" src="https://github.com/user-attachments/assets/be3dfc8b-18c8-469d-82fb-75e7efdd9b7d" />
 
 * **Key Features:** Year and Region slicers, combo charts tracking sales vs. profit margin trends, and category quantity breakdowns.
 
@@ -45,7 +45,7 @@ A spatial and structural breakdown tracking international profitability and mult
 ### 3. 🎯 Sales vs. Target Variance Tracking
 A dedicated performance dashboard comparing actual retail sales against established organizational targets.
 
-<img width="1321" height="763" alt="image" src="https://github.com/user-attachments/assets/be3dfc8b-18c8-469d-82fb-75e7efdd9b7d" />
+<img width="1375" height="778" alt="image" src="https://github.com/user-attachments/assets/d504a0b1-220e-4dad-92f4-05e3cc51d216" />
 
 * **Key Features:** KPI card summaries (Sales, Target, Variance, and Variance Margin), horizontal monthly comparison bars, and detailed variance column charts.
 
@@ -54,7 +54,7 @@ A dedicated performance dashboard comparing actual retail sales against establis
 ### 4. 🛒 Global Superstore: Category & Profitability Insights
 An exploratory retail analytics report emphasizing product profitability and category performance across customer segments.
 
-<img width="1136" height="559" alt="image" src="https://github.com/user-attachments/assets/f9ae7e2e-14d0-4729-a103-2b72505faa08" />
+<img width="1375" height="778" alt="image" src="https://github.com/user-attachments/assets/d504a0b1-220e-4dad-92f4-05e3cc51d216" />
 
 * **Key Features:** Segment-filtered category bar charts, multi-year revenue growth trend lines, and a high-impact treemap of most profitable products.
 
